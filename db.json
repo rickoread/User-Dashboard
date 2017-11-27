@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "firstName": "Bobbby",
+      "lastName": "Test",
+      "hasApp": true,
+      "registerDate": 1490742000000
+    },
+    {
+      "id": 3,
+      "firstName": "Tim",
+      "lastName": "Test",
+      "hasApp": false,
+      "registerDate": null
+    },
+    {
+      "id": 4,
+      "firstName": "Francis",
+      "lastName": "Test",
+      "hasApp": true,
+      "registerDate": 1488412800000
+    },
+    {
+      "id": 5,
+      "firstName": "Lela",
+      "lastName": "Test",
+      "hasApp": false,
+      "registerDate": null
+    }
+  ]
+}
